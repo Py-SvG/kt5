@@ -11,3 +11,7 @@ git tag v1.1.0
 git add .
 git commit -m "feat: добавлено приветствие пользователя"
 git tag v1.2.0
+
+git add .
+git commit -m "fix: исправлена опечатка в выводе"
+git tag v1.2.1
